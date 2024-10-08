@@ -5,13 +5,11 @@
     "host": "127.0.0.1"
   },
   "database": {
-    "client": "mysql",
+    "client": "pg",
     "connection": {
-      "host": "127.0.0.1",
-      "user": "becoachbd",
-      "password": "Stark5**",
-      "database": "becoachbd"
+        "url": "mysql://y99xt2sma66hwq8e:cawb1x8p36x6ym5d@d1kb8x1fu8rhcnej.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/b73ua367hk84c3sk"
     }
+}
   },
   "mail": {
     "transport": "Direct"
